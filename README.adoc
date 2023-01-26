@@ -1,0 +1,21 @@
+= filedialogs
+:icons: font
+
+== filedialogs
+
+Demonstration of Java file dialogs:
+
+=== JFileChooser -- Swing
+
+.`javax.swing.JFileChooser`
+image::doc/img/JFileChooser.png[]
+
+=== FileDialog -- AWT
+
+.`java.awt.FileDialog`
+image::doc/img/FileDialog.png[]
+
+=== FileChooser -- JavaFX
+
+.`javafx.stage.FileChooser`
+image::doc/img/FileChooser.png[]
